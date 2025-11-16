@@ -1,6 +1,6 @@
 # Experiment 3: DML Commands
 ## Name: KISHORE S
-## Reg.no: 212224230130
+## Reg.No: 212224230130
 
 
 ## AIM
